@@ -1,5 +1,6 @@
 # Ballance wiki repository
-The repository for Ballance.
+The repository for Ballance.  
+*Test version*  
 
 ## Summary
 This repository's aim is that make more people knowing Ballance and its knowlwdge.  
@@ -34,13 +35,17 @@ You only can merge your core repository's change into original repository. Updat
 For BKT's members, use these commands to depoly Github Page.  
 
 ```
-# Install
-npm install g gh-pages
-
-# Generate and deploy
-gitbook build
-gh-pages -d _book
-
+cd ../
+mkdir ballance-wiki-cache
+gitbook build ballance-wiki ballance-wiki-cache
+cd ./ballance-wiki
+git checkout gh-pages
+cd ../
+cp -rf ./ballance-wiki-cache/ ./ballance-wiki/
+cd ./ballance-wiki
+git add .
+git commit
+git push origin gh-pages
 ```
 
 > This method request that you should have a Github account. Considering the real situation, if you modify some files but don't have Github account and even don't know how to use commander or Git, You can contact the people who have Github account and delegate them to upload your change.
