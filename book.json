@@ -1,0 +1,24 @@
+{
+    "title": "Ballance wiki",
+    "plugins": [
+        "highlight",
+        "search",
+        "sharing",
+
+        "alerts",
+        "tbfed-pagefooter",
+        "anchor-navigation-ex",
+        "favicon",
+        "expandable-chapters-small",
+        "modal-youtube-video"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"Text is available under the CC-BY-SA 4.0 License. Nobody"
+        },
+        "favicon": {
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico"
+        }
+    }
+}
