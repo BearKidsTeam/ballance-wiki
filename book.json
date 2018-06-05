@@ -10,7 +10,8 @@
         "anchor-navigation-ex",
         "favicon",
         "expandable-chapters-small",
-        "modal-youtube-video"
+        "modal-youtube-video",
+        "sectionx"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
@@ -18,7 +19,16 @@
         },
         "favicon": {
             "shortcut": "assets/favicon.ico",
-            "bookmark": "assets/favicon.ico"
+            "bookmark": "assets/favicon.ico",
+            "appleTouch": "assets/favicon.png",
+            "appleTouchMore": {
+                "120x120": "assets/favicon.png",
+                "180x180": "assets/favicon.png"
+            }
+        },
+        "sectionx": {
+            "tag": "b"
         }
+        
     }
 }
