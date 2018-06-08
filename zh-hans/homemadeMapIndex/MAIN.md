@@ -12,6 +12,6 @@
 专业竞速是由Ballance吧的Burning红云所制作的一套地图集，其目的在于比试Ballance的技巧，练习Ballance手感。相较于独立自制地图，虽然这个地图集的地图也是自制的，但是它们都很短小精悍，每张图仅仅只有一个小节。[点击这里](professionalSpeedrun/MAIN.md)了解专业竞速中包含哪些地图以及这些地图所考验的技术。
 <!--endsec-->
 
-<!--sec data-title="反向/修改的地图" data-id="section2" data-show=true ces-->
+<!--sec data-title="修改的地图" data-id="section2" data-show=true ces-->
 这个部分的地图均是对已存的原版地图又或者是自制地图进行修改而被创造出来的，修改方法包括但不仅限于：反向，线框化，45°化，弱智化。这些地图中有些修改并没有明确的意义，可能仅仅是满足改图者自身的喜好或娱乐，但是我们还是收录了其中一些的地图，[点击这里](modifiedMap/MAIN.md)详细了解。
 <!--endsec-->

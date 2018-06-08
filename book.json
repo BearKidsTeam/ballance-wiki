@@ -6,16 +6,20 @@
         "sharing",
 
         "alerts",
-        "tbfed-pagefooter",
+        "page-footer-ex",
         "anchor-navigation-ex",
         "favicon",
         "expandable-chapters-small",
         "modal-youtube-video",
-        "sectionx"
+        "sectionx",
+        "image-captions"
     ],
     "pluginsConfig": {
-        "tbfed-pagefooter": {
-            "copyright":"Text is available under the CC-BY-SA 4.0 License. Nobody"
+        "page-footer-ex": {
+            "copyright": "Text is available under the [CC-BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).",
+            "markdown": true,
+            "update_label": "Last updated at: ",
+            "update_format": "MM/DD/YYYY HH:mm:ss"
         },
         "favicon": {
             "shortcut": "assets/favicon.ico",
