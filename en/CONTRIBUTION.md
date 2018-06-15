@@ -1,10 +1,10 @@
-# Contributinon
+# Contributinons
 
 This page list all of contributor for this Wiki.
 
 Names not listed in order.
 
-## Gitbook structure
+## The construction of Gitbook's core files and plugins
 
 * yyc12345
 

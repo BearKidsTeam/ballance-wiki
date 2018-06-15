@@ -7,9 +7,9 @@
     * [Modified Map](homemadeMapIndex/modifiedMap/MAIN.md)
 * [Game Skill](gameplaySkill/MAIN.md)
 * [Mapping](mapping/MAIN.md)
-* [Illustrated Handbook of Elements](elements/MAIN.md)
-* [Speedrun and Record](speedrun/MAIN.md)
+* [Illustrated Book of Elements](elements/MAIN.md)
+* [Speedrun and Records](speedrun/MAIN.md)
 * [Q&A](q&a/MAIN.md)
 * [Related Apps](app/MAIN.md)
 
-* [Contributions](../CONTRIBUTION.md)
+* [Contributions](CONTRIBUTION.md)

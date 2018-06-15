@@ -4,7 +4,7 @@
 >
 > 此百科处于建设当中，有些板块目前仍然没有数据。
 
-[Ballance](https://en.wikipedia.org/wiki/Ballance)是一个解谜类滚球游戏，于2004年由Atari发售。
+[Ballance](https://en.wikipedia.org/wiki/Ballance)是一个3D解密视频游戏，于2004年由Atari发售。
 
 本百科旨在介绍Ballance的方方面面，您可以根据您的需要选择对应的章节进行浏览。
 

@@ -15,23 +15,23 @@ Due to that Ballance has been selling for a long time, its built-in 12+1DLC leve
 <!--endsec-->
 
 <!--sec data-title="Game Skill" data-id="section1" data-show=true ces-->
-Ballance在竞速圈中也是有一定名气的，而要想取得好成绩，掌握一些游戏技巧也是十分重要的，在[这里](gameplaySkill/MAIN.md)，有运球技巧，也有激发各种游戏Bug来为您服务的技巧。何不了解一下？
+Ballance also has some reputations in speedrun territory. If you want to get good results, it is also very important to master some game skills. In [here](gameplaySkill/MAIN.md), there are skills about controlling your ball, but also stimulate various game's bugs to serve you. Why not check it out?
 <!--endsec-->
 
 <!--sec data-title="Mapping" data-id="section2" data-show=true ces-->
-您是否被各种自制地图所惊讶，对于它们的创造很感兴趣？来[这里](mapping/MAIN.md)，我们将会手把手地教会您制作一张自制地图。
+Are you surprised by various homemade maps and are very interested in their creation? To [here](mapping/MAIN.md), we will teach you to create a homemade map step by step.
 <!--endsec-->
 
-<!--sec data-title="Illustrated Handbook of Elements" data-id="section6" data-show=true ces-->
-Ballance中拥有众多的机关，但是初学者想要灵活掌握它们却并不容易。[机关图鉴](elements/MAIN.md)将通过展示图片的方式帮助初学者更好地了解一些机关，也帮助制图者更好地组合各类机关。
+<!--sec data-title="Illustrated Book of Elements" data-id="section6" data-show=true ces-->
+There are many elements in Ballance, but they are not easy for beginners to master them flexibly. [This section](elements/MAIN.md) will help beginners better understand some of the elements via the display of pictures, and this section will also help cartographer better combine all kinds of elements in their homemade map.
 
-此外，机关图鉴不仅会展示原版Ballance中的机关，还会展示所有Ballance衍生作品中的机关。机关图鉴会标识各类机关的使用范围。
+In addition, this section will not only display the institutions in the original Ballance, but also display all the elements in Balllance’s derivative works. This section identifies the scope of use of each element.
 <!--endsec-->
 
-<!--sec data-title="Speedrun and Record" data-id="section3" data-show=true ces-->
-更高更快更强？
+<!--sec data-title="Speedrun and Records" data-id="section3" data-show=true ces-->
+Higher, faster and stronger?
 
-来[这里](speedrun/MAIN.md)就没错了！Ballance的纪录受到多方支持，您可以选择您喜欢的记录模式来让世界知道您的水准。每个不同的纪录提供方都要求您以它们所规定的方式创造纪录，请仔细阅读纪录提供方提供的参考。
+Come [here](speedrun/MAIN.md)! Ballance's record is supported by many parties. You can choose your favorite recording mode to let the world know your level. Each different record provider requires you to create records in the manner that they specify. Please read carefully the reference provided by the record provider.
 <!--endsec-->
 
 <!--sec data-title="Q&A" data-id="section4" data-show=true ces-->

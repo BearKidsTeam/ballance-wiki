@@ -31,21 +31,6 @@ Don't use visual Gitbook editor! It might cause some messy issues. I suggest tha
 
 ### Submit
 Please submit your change in your own forked repository. And make a Pull Request in original repository. The submit, which is directly submitted by people, who is not BKT's members, will be reset. We only accept PR.  
-You only can merge your core repository's change into original repository. Updating Github Pages' work is BKT's duty.  
-For BKT's members, use these commands to depoly Github Page.  
-
-```
-cd ../
-mkdir ballance-wiki-cache
-gitbook build ballance-wiki ballance-wiki-cache
-cd ./ballance-wiki
-git checkout gh-pages
-cd ../
-cp -rf ./ballance-wiki-cache/ ./ballance-wiki/
-cd ./ballance-wiki
-git add .
-git commit
-git push origin gh-pages
-```
+We deploy a work on travis-ci to deploy gh-page automatically. We only merge your branch to master.
 
 > This method request that you should have a Github account. Considering the real situation, if you modify some files but don't have Github account and even don't know how to use commander or Git, You can contact the people who have Github account and delegate them to upload your change.

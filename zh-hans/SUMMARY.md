@@ -12,4 +12,4 @@
 * [Q&A](q&a/MAIN.md)
 * [相关程序](app/MAIN.md)
 
-* [贡献](../CONTRIBUTION.md)
+* [贡献](CONTRIBUTION.md)
