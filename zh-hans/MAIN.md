@@ -1,8 +1,8 @@
-# Ballance百科主页
+# Ballance百科
 
-> **[warning] 这只是一个测试网站**
+> **[warning] 此百科正在建设当中**
 >
-> 这个网站只是针对未来即将实现的Ballance百科做一个测试
+> 此百科处于建设当中，有些板块目前仍然没有数据。
 
 [Ballance](https://en.wikipedia.org/wiki/Ballance)是一个解谜类滚球游戏，于2004年由Atari发售。
 
@@ -38,8 +38,14 @@ Ballance中拥有众多的机关，但是初学者想要灵活掌握它们却并
 是否在Ballance以及其相关软件中遇到了一些问题？试着来[这里](q&a/MAIN.md)找找解决方案吧。
 <!--endsec-->
 
+<!--sec data-title="相关程序" data-id="section7" data-show=true ces-->
+鉴于Ballance的老旧，已经有一些程序员开发了与之相关的配套程序来提升它的可玩性，易用性。本章节旨在介绍这些程序，并给予你相应的使用方法，点击[这里](app/MAIN.md)，查询所有相关的程序。
+<!--endsec-->
+
 <!--sec data-title="贡献" data-id="section5" data-show=true ces-->
 本百科由[BearKidsTeam](https://github.com/BearKidsTeam)所运营。本百科的中文部分的撰写由[百度Ballance吧](https://tieba.baidu.com/f?ie=utf-8&kw=ballance)和BearKidsTeam共同负责。
+
+了解详情可以加入我们的Discord：{% teji %}<a href="https://discord.gg/wFSCXuz"><img src="https://discordapp.com/api/guilds/412909762217377812/widget.png" width="119" height="20" border="0"></a>{% endteji %}
 
 对于本工程的贡献的方式可在Github上本工程中的README.md中查看。
 

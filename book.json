@@ -12,7 +12,8 @@
         "expandable-chapters-small",
         "modal-youtube-video",
         "sectionx",
-        "image-captions"
+        "image-captions",
+        "chinese-video"
     ],
     "pluginsConfig": {
         "page-footer-ex": {
