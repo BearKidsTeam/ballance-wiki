@@ -12,7 +12,6 @@
         "expandable-chapters-small",
         "modal-youtube-video",
         "sectionx",
-        "image-captions",
         "chinese-video"
     ],
     "pluginsConfig": {
@@ -23,12 +22,12 @@
             "update_format": "MM/DD/YYYY HH:mm:ss"
         },
         "favicon": {
-            "shortcut": "assets/favicon.ico",
-            "bookmark": "assets/favicon.ico",
-            "appleTouch": "assets/favicon.png",
+            "shortcut": "../assets/favicon.ico",
+            "bookmark": "../assets/favicon.ico",
+            "appleTouch": "../assets/favicon.png",
             "appleTouchMore": {
-                "120x120": "assets/favicon.png",
-                "180x180": "assets/favicon.png"
+                "120x120": "../assets/favicon.png",
+                "180x180": "../assets/favicon.png"
             }
         },
         "sectionx": {
