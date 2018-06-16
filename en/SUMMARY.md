@@ -5,7 +5,7 @@
     * [Independent Map](customMapIndex/singleMap/MAIN.md)
         * [Moneng Space](customMapIndex/singleMap/monengSpace.md)
         * [Moqiu](customMapIndex/singleMap/moqiu.md)
-        * [Double Pathe](customMapIndex/singleMap/doublePath.md)
+        * [Double Path](customMapIndex/singleMap/doublePath.md)
     * [Professional Speedrun](customMapIndex/professionalSpeedrun/MAIN.md)
     * [Modified Map](customMapIndex/modifiedMap/MAIN.md)
 * [Gameplay Skill](gameplaySkill/MAIN.md)
