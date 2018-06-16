@@ -11,7 +11,7 @@
 <!--sec data-title="自制地图索引" data-id="section0" data-show=true ces-->
 由于Ballance已经发售许久，其自带的12+1DLC的关卡已无法满足广大游戏者的兴趣，于是自制地图应运而生。自制地图是建立在了解Ballance的制作原理之上而出现的，本章节旨在列出所有目前被创作出来的自制地图，而对于如何自制地图，请参见**制图**一节。
 
-[点击这里](homemadeMapIndex/MAIN.md)进入自制地图索引主页面。
+[点击这里](customMapIndex/MAIN.md)进入自制地图索引主页面。
 <!--endsec-->
 
 <!--sec data-title="游戏技巧" data-id="section1" data-show=true ces-->
@@ -31,7 +31,7 @@ Ballance中拥有众多的机关，但是初学者想要灵活掌握它们却并
 <!--sec data-title="竞速与纪录" data-id="section3" data-show=true ces-->
 更高更快更强？
 
-来[这里](speedrun/MAIN.md)就没错了！Ballance的纪录受到多方支持，您可以选择您喜欢的记录模式来让世界知道您的水准。每个不同的纪录提供方都要求您以它们所规定的方式创造纪录，请仔细阅读纪录提供方提供的参考。
+来[这里](speedrun/MAIN.md)就没错了！Ballance的纪录受到多方支持，您可以选择您喜欢的记录模式来让世界知道您的水准。每个不同的纪录认证者都要求您以它们所规定的方式创造纪录，请仔细阅读纪录认证者提供的参考。
 <!--endsec-->
 
 <!--sec data-title="Q&A" data-id="section4" data-show=true ces-->

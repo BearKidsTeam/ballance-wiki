@@ -8,22 +8,22 @@
 
 This wiki will introduce each aspects of Ballance. You can look through the chapter which you are interested in.
 
-<!--sec data-title="Homemade Map Index" data-id="section0" data-show=true ces-->
-Due to that Ballance has been selling for a long time, its built-in 12+1DLC levels have been unabled to meet the interests of the majority of gamers, so homemade map came into being. Homemade maps are based on the understanding of the operating mode of Ballance. This section aims to list all the homemade maps that are currently being created. For how to create maps, see the section on **Mapping**.
+<!--sec data-title="Custom Map Index" data-id="section0" data-show=true ces-->
+Due to that Ballance has been selling for a long time, its built-in 12+1DLC levels have been unabled to meet the interests of the majority of gamers, so custom map came into being. Custom maps are based on the understanding of the operating mode of Ballance. This section aims to list all the custom maps that are currently being created. For how to create maps, see the section on **Mapping**.
 
-[Click here](homemadeMapIndex/MAIN.md) to enter homemade map index's home page.
+[Click here](customMapIndex/MAIN.md) to enter custom map index's home page.
 <!--endsec-->
 
-<!--sec data-title="Game Skill" data-id="section1" data-show=true ces-->
+<!--sec data-title="Gameplay Skill" data-id="section1" data-show=true ces-->
 Ballance also has some reputations in speedrun territory. If you want to get good results, it is also very important to master some game skills. In [here](gameplaySkill/MAIN.md), there are skills about controlling your ball, but also stimulate various game's bugs to serve you. Why not check it out?
 <!--endsec-->
 
 <!--sec data-title="Mapping" data-id="section2" data-show=true ces-->
-Are you surprised by various homemade maps and are very interested in their creation? To [here](mapping/MAIN.md), we will teach you to create a homemade map step by step.
+Are you surprised by various custom maps and are very interested in their creation? To [here](mapping/MAIN.md), we will teach you to create a custom map step by step.
 <!--endsec-->
 
 <!--sec data-title="Illustrated Book of Elements" data-id="section6" data-show=true ces-->
-There are many elements in Ballance, but they are not easy for beginners to master them flexibly. [This section](elements/MAIN.md) will help beginners better understand some of the elements via the display of pictures, and this section will also help cartographer better combine all kinds of elements in their homemade map.
+There are many elements in Ballance, but they are not easy for beginners to master them flexibly. [This section](elements/MAIN.md) will help beginners better understand some of the elements via the display of pictures, and this section will also help cartographer better combine all kinds of elements in their custom map.
 
 In addition, this section will not only display the institutions in the original Ballance, but also display all the elements in Balllance’s derivative works. This section identifies the scope of use of each element.
 <!--endsec-->

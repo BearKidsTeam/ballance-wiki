@@ -3,7 +3,7 @@
     "plugins": [
         "highlight",
         "search",
-        "sharing",
+        "-sharing",
 
         "alerts",
         "page-footer-ex",
@@ -12,7 +12,8 @@
         "expandable-chapters-small",
         "modal-youtube-video",
         "sectionx",
-        "chinese-video"
+        "chinese-video",
+        "sharing-plus"
     ],
     "pluginsConfig": {
         "page-footer-ex": {
@@ -32,6 +33,31 @@
         },
         "sectionx": {
             "tag": "b"
+        },
+        "pluginsConfig": {
+            "sharing": {
+                "douban": false,
+                "facebook": true,
+                "google": true,
+                "hatenaBookmark": false,
+                "instapaper": false,
+                "line": false,
+                "linkedin": false,
+                "messenger": false,
+                "pocket": false,
+                "qq": true,
+                "qzone": true,
+                "stumbleupon": false,
+                "twitter": true,
+                "viber": false,
+                "vk": false,
+                "weibo": true,
+                "whatsapp": false,
+                "all": [
+                    "facebook", "google", "twitter",
+                    "weibo", "qq", "qzone"
+                ]
+            }
         }
         
     }

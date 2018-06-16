@@ -1,11 +1,11 @@
 # Summary
 
 * [Home Page](MAIN.md)
-* [Homemade Map Index](homemadeMapIndex/MAIN.md)
-    * [Independent Map](homemadeMapIndex/singleMap/MAIN.md)
-    * [Professional Speedrun](homemadeMapIndex/professionalSpeedrun/MAIN.md)
-    * [Modified Map](homemadeMapIndex/modifiedMap/MAIN.md)
-* [Game Skill](gameplaySkill/MAIN.md)
+* [Custom Map Index](customMapIndex/MAIN.md)
+    * [Independent Map](customMapIndex/singleMap/MAIN.md)
+    * [Professional Speedrun](customMapIndex/professionalSpeedrun/MAIN.md)
+    * [Modified Map](customMapIndex/modifiedMap/MAIN.md)
+* [Gameplay Skill](gameplaySkill/MAIN.md)
 * [Mapping](mapping/MAIN.md)
 * [Illustrated Book of Elements](elements/MAIN.md)
 * [Speedrun and Records](speedrun/MAIN.md)
