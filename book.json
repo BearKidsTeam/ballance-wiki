@@ -4,13 +4,11 @@
         "highlight",
         "search",
         "-sharing",
-
         "alerts",
         "page-footer-ex",
         "anchor-navigation-ex",
         "favicon",
         "expandable-chapters-small",
-        "modal-youtube-video",
         "sectionx",
         "chinese-video",
         "sharing-plus"
@@ -34,31 +32,32 @@
         "sectionx": {
             "tag": "b"
         },
-        "pluginsConfig": {
-            "sharing": {
-                "douban": false,
-                "facebook": true,
-                "google": true,
-                "hatenaBookmark": false,
-                "instapaper": false,
-                "line": false,
-                "linkedin": false,
-                "messenger": false,
-                "pocket": false,
-                "qq": true,
-                "qzone": true,
-                "stumbleupon": false,
-                "twitter": true,
-                "viber": false,
-                "vk": false,
-                "weibo": true,
-                "whatsapp": false,
-                "all": [
-                    "facebook", "google", "twitter",
-                    "weibo", "qq", "qzone"
-                ]
-            }
+        "sharing": {
+            "douban": false,
+            "facebook": true,
+            "google": true,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "stumbleupon": false,
+            "twitter": true,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "qq",
+                "qzone"
+            ]
         }
-        
     }
 }

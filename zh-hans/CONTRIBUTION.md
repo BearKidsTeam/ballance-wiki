@@ -12,7 +12,9 @@
 
 * yyc12345
 * qlfwow8
+* ballancebug
 
 ## 翻译
 
 * yyc12345
+* ballancebug
