@@ -12,7 +12,7 @@
 |Authorization type|Free use|
 |Suitable for|Ballance|
 |Included in Map Package|Yes|
-|Supported by|Scoremanager|
+|Supported by|Score Manager|
 
 ## Screenshots
 

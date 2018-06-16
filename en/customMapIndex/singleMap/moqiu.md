@@ -12,7 +12,7 @@
 |Authorization type|Free use|
 |Suitable for|Ballance|
 |Included in Map Package|Yes|
-|Supported by|Scoremanager|
+|Supported by|Score Manager|
 
 ## Screenshots
 
@@ -21,6 +21,8 @@
 ## Download
 
 [Discord](https://cdn.discordapp.com/attachments/413502698143350799/413719322146373632/Moqiu.Level.NMO)
+
+[Mediafire](https://www.mediafire.com/download/3q792b0250dun00)
 
 ## Videos
 
