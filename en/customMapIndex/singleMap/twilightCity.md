@@ -1,4 +1,4 @@
-﻿# Twilight City
+# Twilight City
 
 ## Quick View
 

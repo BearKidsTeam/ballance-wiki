@@ -13,6 +13,7 @@
         * [Strength IV](customMapIndex/singleMap/strengthIV.md)
         * [Tension II](customMapIndex/singleMap/tensionII.md)
         * [Twilight City](customMapIndex/singleMap/twilightCity.md)
+        * [Ballance Wooden](customMapIndex/singleMap/ballanceWooden.md)
     * [Professional Speedrun](customMapIndex/professionalSpeedrun/MAIN.md)
     * [Modified Map](customMapIndex/modifiedMap/MAIN.md)
 * [Gameplay Skill](gameplaySkill/MAIN.md)

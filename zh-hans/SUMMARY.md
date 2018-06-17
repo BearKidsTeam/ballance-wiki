@@ -13,6 +13,7 @@
         * [力量4](customMapIndex/singleMap/strengthIV.md)
         * [紧张图2](customMapIndex/singleMap/tensionII.md)
         * [暮光之城](customMapIndex/singleMap/twilightCity.md)
+        * [Ballance Wooden](customMapIndex/singleMap/ballanceWooden.md)
     * [专业竞速](customMapIndex/professionalSpeedrun/MAIN.md)
     * [修改的地图](customMapIndex/modifiedMap/MAIN.md)
 * [游戏技巧](gameplaySkill/MAIN.md)
