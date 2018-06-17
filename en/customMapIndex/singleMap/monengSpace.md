@@ -12,7 +12,7 @@
 |Authorization type|Free use|
 |Suitable for|Ballance, Ballance Remix|
 |Included in Map Package|Yes|
-|Supported by|Score Manager|
+|Records supported by|Score Manager|
 
 ## Screenshots
 

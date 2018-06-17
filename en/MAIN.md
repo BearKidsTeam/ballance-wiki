@@ -50,5 +50,5 @@ You can join our Discord server to know more information: {% teji %}<a href="htt
 
 The method of contributing to this repository can be seen at this repository's Github page's README.md
 
-[Here](../CONTRIBUTION.md) are some person who have made contributions to this wiki. I would like to express my heartfelt gratitude for this. There is no such encyclopedia without you.
+[Here](CONTRIBUTION.md) are some person who have made contributions to this wiki. I would like to express my heartfelt gratitude for this. There is no such encyclopedia without you.
 <!--endsec-->

@@ -12,7 +12,7 @@
 |Authorization type|Free use|
 |Suitable for|Ballance|
 |Included in Map Package|Yes|
-|Supported by|None|
+|Records supported by|None|
 
 ## Screenshots
 
