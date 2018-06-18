@@ -1,4 +1,4 @@
-﻿# Family Portrait
+# Family Portrait
 
 ## Quick View
 
