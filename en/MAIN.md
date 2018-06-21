@@ -4,7 +4,7 @@
 >
 > This wiki is under construction. Some chapters is empty and other pages have not yet been translated.
 
-[Ballance](https://en.wikipedia.org/wiki/Ballance) is a 3D puzzle video game, which is published by Atari in 2004.
+[Ballance](https://en.wikipedia.org/wiki/Ballance) is a 3D puzzle video game, which was published by Atari in 2004.
 
 This wiki will introduce each aspects of Ballance. You can look through the chapter which you are interested in.
 
@@ -15,15 +15,15 @@ Due to that Ballance has been selling for a long time, its built-in 12+1DLC leve
 <!--endsec-->
 
 <!--sec data-title="Gameplay Skill" data-id="section1" data-show=true ces-->
-Ballance also has some reputations in speedrun territory. If you want to get good results, it is also very important to master some game skills. In [here](gameplaySkill/MAIN.md), there are skills about controlling your ball, but also stimulate various game's bugs to serve you. Why not check it out?
+Ballance has its own place in speedrunning. If you want to get good results, it is also very important to master some game skills. In [here](gameplaySkill/MAIN.md), there are skills about controlling your ball, but also stimulate various game's bugs to serve you. Why not check it out?
 <!--endsec-->
 
 <!--sec data-title="Mapping" data-id="section2" data-show=true ces-->
-Are you surprised by various custom maps and are very interested in their creation? To [here](mapping/MAIN.md), we will teach you to create a custom map step by step.
+Are you surprised by various custom maps and are very interested in their creation? [Here](mapping/MAIN.md) is a tutorial to help you create a custom map step by step.
 <!--endsec-->
 
 <!--sec data-title="Illustrated Book of Elements" data-id="section6" data-show=true ces-->
-There are many elements in Ballance, but they are not easy for beginners to master them flexibly. [This section](elements/MAIN.md) will help beginners better understand some of the elements via the display of pictures, and this section will also help cartographer better combine all kinds of elements in their custom map.
+There are many elements in Ballance, but they are not easy for beginners to master them. [This section](elements/MAIN.md) will help beginners better understand some of the elements via the display of pictures, and this section will also help cartographer better combine all kinds of elements in their custom map.
 
 In addition, this section will not only display the institutions in the original Ballance, but also display all the elements in Balllance’s derivative works. This section identifies the scope of use of each element.
 <!--endsec-->
