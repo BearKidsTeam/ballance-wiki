@@ -14,9 +14,9 @@ Record of Ballance is an important part of Ballance's ecosystem. So far, there a
 ### Prerequisites
 
 * Upload a video of the run to certify your score.
-* The scoring of CHS and CCHS is to see the game score counter in the bottom-left corner.
+* The scoring of CHS and CCHS is the score which can be seen at scoreboared's item called Score. This means that the final score contains level bonus and extra lives.
 * The CSR, CCSR mode requires Any% for the props in the game.
-* CSR, CCSR uses a formula to calculate your speedrun time: **Seconds = (Initial score + Earned score - Final Time Points) / 2** For initial score, level 1 is 1000 and others are 999. Final Time Points will be displaied when you finish a level on your score board.
+* CSR, CCSR uses a formula to calculate your speedrun time: **Seconds = (Initial score + Earned score - Final Time Points) / 2** For initial score, level 1 is 1000 and others are 999. Final Time Points will be displaied when you finish a level on your scoreboard.
 * Taking advantage of glitches is prohibited in CHS, CSR.
 * CCHS, CCSR only allows zip glitch and camera skew glitch.
 * CCHS, CCSR score must be higher than the corresponding CHS, CSR. CCHS, CCSR score is lower than corresponding CHS, CSR will not be accepted.
