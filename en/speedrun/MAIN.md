@@ -25,6 +25,8 @@ Record of Ballance is an important part of Ballance's ecosystem. So far, there a
 
 Open a post on [Chinese Ballance Forum](https://tieba.baidu.com/p/5000178147) and attach your video to your post.
 
+Chinese leaderboard don't have history feature. So it only can show the 1st player of corresponding speedrun records.
+
 Alternatively, you can contact yyc12345 in Discord server.
 
 ## [Speedrun.com](https://www.speedrun.com/ballance)
@@ -43,7 +45,7 @@ The details about the rule can be found [on speedrun.com](https://www.speedrun.c
 
 ### The way to submit
 
-Sutmit your video on [Speedrun.com's Ballance page](https://www.speedrun.com/ballance) directly or contact Leemyy in Discord server.
+Sutmit your video on [Speedrun.com's Ballance page](https://www.speedrun.com/ballance) directly.
 
 ## [Score Manager](http://jxtoolbox.sinaapp.com)
 
