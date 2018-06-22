@@ -47,6 +47,8 @@ Ballance中拥有众多的机关，但是初学者想要灵活掌握它们却并
 
 了解详情可以加入我们的Discord：{% teji %}<a href="https://discord.gg/wFSCXuz"><img src="https://discordapp.com/api/guilds/412909762217377812/widget.png" width="119" height="20" border="0"></a>{% endteji %}
 
+不了解如何加入Discord请查看[教程](q&a/discord.md)。
+
 对于本工程的贡献的方式可在Github上本工程中的README.md中查看。
 
 [这里](CONTRIBUTION.md)是对本百科做出过贡献的人，在此表示衷心的感谢，没有你们就没有这个百科。

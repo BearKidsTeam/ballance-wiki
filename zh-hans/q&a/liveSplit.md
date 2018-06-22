@@ -14,11 +14,11 @@ LiveSplit是一款主要用于speedrun.com的计时软件。
 
 打开后的LiveSplit如图所示：
 
-![livesplit-1](../../assets/q&a/livesplit-1.png)
+![livesplit-1](../../assets/q&a/livesplit-1.PNG)
 
 由于LiveSplit只有英文版，所以英文不好的请按教程操作。接下来我们设置按键，右键LiveSplit的窗口，选择：Settings，打开如下窗口：
 
-![livesplit-2](../../assets/q&a/livesplit-2.png)
+![livesplit-2](../../assets/q&a/livesplit-2.PNG)
 
 对于Ballance，我们只需要关注一些项目就好：
 
@@ -45,11 +45,11 @@ LiveSplit是一款主要用于speedrun.com的计时软件。
 
 右键计时器-Edit Splits打开如下画面
 
-![livesplit-3](../../assets/q&a/livesplit-3.png)
+![livesplit-3](../../assets/q&a/livesplit-3.PNG)
 
 在Game Name一栏中输入 **Ballance** （注意大小写），然后点击OK，会发现计时器变成如下模样
 
-![livesplit-4](../../assets/q&a/livesplit-4.png)
+![livesplit-4](../../assets/q&a/livesplit-4.PNG)
 
 > 如果无法呈现界面，可能是你的网络环境太差以至于speedrun.com被屏蔽了，请刷新或者尝试VPN
 
@@ -57,11 +57,11 @@ LiveSplit是一款主要用于speedrun.com的计时软件。
 
 再次右键计时器-Edit Splits打开Splits Editor，显而易见，中部有一个表格，我们需要在里面填写12/13关（取决于你要破的纪录）关卡的名字。首先让我们双击Segment Name下第一行的空白处，输入 **Level 1** 然后随便在空白处点下使我们退出输入模式。这样我们就完成了第一关的输入。点击左侧的Insert Below在当前选择项下面插入新行，以此类推完成所有关卡名字的录入，录入完成后列表大概如下图，然后点击OK
 
-![livesplit-5](../../assets/q&a/livesplit-5.png)
+![livesplit-5](../../assets/q&a/livesplit-5.PNG)
 
 点击OK后会退回计时器界面，你可以看到计时器呈现下图样式：
 
-![livesplit-6](../../assets/q&a/livesplit-6.png)
+![livesplit-6](../../assets/q&a/livesplit-6.PNG)
 
 ### 保存界面
 
