@@ -1,6 +1,7 @@
 {
-    "title": "Ballance wiki",
+    "title": "Ballance Wiki",
     "plugins": [
+        "addcssjs",
         "highlight",
         "search",
         "-sharing",
@@ -14,6 +15,10 @@
         "sharing-plus"
     ],
     "pluginsConfig": {
+        "addcssjs": {
+            "js": ["./website.js"],
+            "css": ["./website.css"]
+        },
         "page-footer-ex": {
             "copyright": "Text is available under the [CC-BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).",
             "markdown": true,
