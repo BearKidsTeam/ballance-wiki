@@ -11,11 +11,7 @@ Names not listed in order.
 ## Document
 
 * yyc12345
-* qlfwow8
-* ballancebug
-* qwezxc385
 
 ## Translation
 
 * yyc12345
-* ballancebug

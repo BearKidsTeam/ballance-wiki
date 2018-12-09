@@ -1,9 +1,10 @@
 # Summary
 
 * [主页](MAIN.md)
-* [竞速与纪录](speedrun/MAIN.md)
-* [Q&A](q&a/MAIN.md)
-    * [LiveSplit使用手册](q&a/liveSplit.md)
-    * [如何加入Discord](q&a/discord.md)
-
+* [Discord](items/discord.md)
+* [Ballance百科](items/wiki.md)
+<!-- * [全球论坛](items/forum.md)-->
+* [Speedrun.com](items/speedrun.md)
+* [百度Ballance吧](items/tieba.md)
+* [QQ群](items/qq.md)
 * [贡献](CONTRIBUTION.md)

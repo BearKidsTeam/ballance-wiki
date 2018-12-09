@@ -1,5 +1,11 @@
 {
     "structure": {
         "readme": "MAIN.md"
+    },
+    "pluginsConfig": {
+        "addcssjs": {
+            "js": ["../website.js"],
+            "css": ["../website.css"]
+        }
     }
 }

@@ -11,11 +11,7 @@
 ## 文档与资源
 
 * yyc12345
-* qlfwow8
-* ballancebug
-* qwezxc385
 
 ## 翻译
 
 * yyc12345
-* ballancebug
