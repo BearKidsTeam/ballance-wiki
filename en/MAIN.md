@@ -11,9 +11,9 @@ This page is Ballance Portal Page. You can use page to go to some pages related 
 ||||
 |:--:|:--:|:--:|
 |![Discord](../assets/discord.png)|![Ballance Wiki](../assets/wiki.png)|![Forum](../assets/forum.png)|
-|Discord|Wiki|<font color="gray">*Worldwide Forum*</font>|
+|[Discord](items/discord.md)|[Ballance Wiki](items/wiki.md)|<font color="gray">*Worldwide Forum*</font>|
 |![Speedrun.com](../assets/speedrun.png)|![Tieba](../assets/chinese-forum.png)|![QQ](../assets/qq.png)|
-|Speedrun.com|Chinese Ballance Forum|Chinese Ballance QQ Group|
+|[Speedrun.com](items/speedrun.md)|[Chinese Ballance Forum](items/tieba.md)|[Chinese Ballance QQ Group](items/qq.md)|
 ||<font color="gray">*Coming soon...*</font>|&nbsp;|
 
 If you want to see more detail about above content, you can click the left list's item to get more information.
