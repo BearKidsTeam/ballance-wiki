@@ -9,9 +9,9 @@ QQ被我们所熟知，在其上也建立了许多QQ群以方便中国Ballance�
 ## QQ群列表
 
 * **650336170 - Ballance·qwe平衡教廷（钦定群） - 群主：qwezxc385**
+* 702613602 - Ballance平衡球（GCBA+玩家聚集+ballance部落三位一体合群） - 群主：EdManager
+* 560467048 - 真·谈笑风生&新人找存在感群 - 群主：Boddswba
 * 231851470 - Ballance吧友群 - 群主：飝快de时间（可理解为官方群）
 * 12643497 - ballance平衡球1群 - 群主：洛基
 * 232272533 - 中国Ballance联盟◇1群 - 群主：Castelu
-* 560467048 - 真·谈笑风生&新人找存在感群 - 群主：Boddswba
-* 722737020 - 反向ballance - 群主：会飞的莴苣小哥哥2018
-* 198574394 - Ballance Wiki 编写组（正规群，非水群） - 群主：yyc12345
+* 198574394 - Ballance Wiki 编写组（正规群、非水群） - 群主：yyc12345
