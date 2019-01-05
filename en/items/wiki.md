@@ -6,7 +6,7 @@ Wiki URL：[https://ballance.jxpxxzj.cn](https://ballance.jxpxxzj.cn)
 
 ## Brief introduction
 
-Ballance Wiki use MediaWiki hosted by jxpxxzj to be its platform. Ballance Wiki's ambition is creating a wiki including all aspects of the knowledge related to Ballance.
+Ballance Wiki use MediaWiki to be its platform, and it is hosted by jxpxxzj. Ballance Wiki's ambition is creating a wiki including all aspects of the knowledge related to Ballance.
 
 This wiki is under construction. The first step is finishing Chinese version. The pages written in English are rare.
 

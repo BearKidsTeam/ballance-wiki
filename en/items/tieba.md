@@ -2,7 +2,7 @@
 
 ## Brief introduction
 
-At first, Chinese Ballance Forum's real name is Baidu Ballance Tieba. But the origin name contains [Pinyin](https://en.wikipedia.org/wiki/Pinyin), it is only readable for Chinese and almost Chinese Ballance event is raised from it. So we call it Chinese Ballance Forum.
+At first, Chinese Ballance Forum's real name is Baidu Ballance Tieba. It hosted by Baidu, the biggest search engine corporation in China. But the origin name contains [Pinyin](https://en.wikipedia.org/wiki/Pinyin). It is only readable for Chinese and almost Chinese Ballance event is raised from it. So we call it Chinese Ballance Forum.
 
 Chinese Ballance Forum is the origin of Chinese Ballance culture. Currenty, it is one of the hottest Chinese Ballance Communication platform.
 
